@@ -101,7 +101,19 @@
             "tipoApp"           : "Desktop App",
             "imagenes"          : [
                 {
-                    "url"       : "https://i.postimg.cc/zDtrFLDx/crud-Anime-1.png"
+                    "url"       : "https://raw.githubusercontent.com/Niba-Kuro/Configuraciones/master/ConfigCrudAnime/crudAnime_1.png"
+                },{
+                    "url"       : "https://raw.githubusercontent.com/Niba-Kuro/Configuraciones/master/ConfigCrudAnime/crudAnime_2.png"
+                },{
+                    "url"       : "https://raw.githubusercontent.com/Niba-Kuro/Configuraciones/master/ConfigCrudAnime/crudAnime_3.png"
+                },{
+                    "url"       : "https://raw.githubusercontent.com/Niba-Kuro/Configuraciones/master/ConfigCrudAnime/crudAnime_4.png"
+                },{
+                    "url"       : "https://raw.githubusercontent.com/Niba-Kuro/Configuraciones/master/ConfigCrudAnime/crudAnime_5.png"
+                },{
+                    "url"       : "https://raw.githubusercontent.com/Niba-Kuro/Configuraciones/master/ConfigCrudAnime/crudAnime_6.png"
+                },{
+                    "url"       : "https://raw.githubusercontent.com/Niba-Kuro/Configuraciones/master/ConfigCrudAnime/crudAnime_7.png"
                 }
             ],
             "tecnologia"        : [
