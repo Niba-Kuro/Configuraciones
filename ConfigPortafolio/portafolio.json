@@ -96,14 +96,36 @@
         {
             "idProyecto"        : 1,
             "nombre"            : "Crud manga",
-            "descripcionDet"    : "",
+            "descripcionDet"    : "Aplicación de escritorio, con recreación de un comic japones(manga) donde podras ingresar mangas, editoriales, autores y genero, teniendo una vista simple de los contenido y detallada de ellos, podiendo ingresar los link para hacerder a donde se encunetra entre otras funcionalidades",
             "descripcionVista"  : "Blibioteca de manga, dondes podrás guardar mangas y visualizar su contenido",
             "tipoApp"           : "Desktop App",
             "imagenes"          : [
                 {
                     "url"       : "https://i.postimg.cc/zDtrFLDx/crud-Anime-1.png"
                 }
-            ]
+            ],
+            "tecnologia"        : [
+                {
+                    "nombre"    : "html",
+                    "class"     : "bg-danger"
+                },{
+                    "nombre"    : "javascript",
+                    "class"     : "bg-warning"
+                },{
+                    "nombre"    : "Electron",
+                    "class"     : "bg-dark"
+                },{
+                    "nombre"    : "python",
+                    "class"     : "bg-primary"
+                },{
+                    "nombre"    : "node",
+                    "class"     : "bg-success"
+                },{
+                    "nombre"    : "css",
+                    "class"     : "bg-info"
+                }
+            ],
+            "link"              : ""
         }
     ]
 }
