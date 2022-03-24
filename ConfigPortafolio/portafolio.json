@@ -137,7 +137,8 @@
                     "class"     : "bg-info"
                 }
             ],
-            "link"              : ""
+            "linkGithub"        : "https://github.com/Niba-Kuro/CrudAnime",
+            "descargarLink"     : ""
         }
     ]
 }
